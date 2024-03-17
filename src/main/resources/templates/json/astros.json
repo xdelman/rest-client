@@ -1,0 +1,8 @@
+{
+  "message": "success",
+  "number": 2,
+  "people": [
+    {"name": "Xolani", "craft": "SPACECRAFT_1"},
+    {"name": "Lahluma", "craft": "SPACECRAFT_2"}
+  ]
+}
